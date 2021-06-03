@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proclamation against persons being in arms at field-conventicles, superscribed by His Majesty at Whitehall, the 6th. day of May, 1679.</title>
+            <author>Scotland. Privy Council.</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B43933</idno><idno type="EEBO-CITATION">297427064</idno>
+  <idno type="VID">208161</idno>
+  <idno type="EEBO-PROQUEST">2248555261</idno>
+  
+            <idno type="OCLC"> 297427064</idno>
+            <idno type="OCLC">ocn 297427064</idno>
+            <idno type="STC">Wing S1598</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B43933)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 208161)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2925:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proclamation against persons being in arms at field-conventicles, superscribed by His Majesty at Whitehall, the 6th. day of May, 1679.</title>
+                  <author>Scotland. Privy Council.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : coat of arms.  </extent>
+               <publicationStmt>
+                  <publisher>By the heir of Andrew Anderson,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>1679]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint of publication suggested by Folger Shakespeare Library.</note>
+                  <note>Includes royal coat of arms above title.</note>
+                  <note>Reproduction of original in: Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  I, --  King of England, 1600-1649.</term>
+               <term type="geographic_name">Scotland --  History --  1660-1688 --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:208161:1"/>
+            <pb facs="tcp:208161:2"/>
+            <head>
+               <figure>
+                  <head>C R</head>
+                  <q xml:lang="frm">HONI SOIT QUI MAL Y PENSE</q>
+                  <figDesc>royal blazon surmounted by a crown</figDesc>
+               </figure>
+            </head>
+            <head>A PROCLAMATION Against persons being in Arms at Field-Conventicles,</head>
+            <opener>
+               <dateline>Superscribed by His Majesty at <hi>Whitehall,</hi>
+                  <date>the 6th. day of <hi>May,</hi> 1679.</date>
+               </dateline>
+               <lb/>
+               <salute>
+                  <seg rend="decorInit">C</seg>HARLES, by the Grace of God, King of Great <hi>Britain, France</hi> and <hi>Ireland,</hi> Defender of the Faith, To <gap reason="blank" extent="1 span">
+                     <desc>〈1 span left blank〉</desc>
+                  </gap> Macers, or Messengers at Arms, Our Sheriffs in that part, conjunctly and severally, specially con<g ref="char:EOLhyphen"/>stitute, Greeting;</salute>
+            </opener>
+            <p>Forasmuch, as albeit by the Fundamental Laws of all Monarchies, the power of Arms is Lodged in the King, and the rising in Arms be punishable as Trea<g ref="char:EOLhyphen"/>son; and that the Estates of Parliament of this Kingdom, reflecting with horror upon the great confusions and distempers, and the execrable rebellion of the last Age, occasi<g ref="char:EOLhyphen"/>oned by the unwarrantable rising in Arms against Our Royal Father of blessed Memory, whereby, not only the Royal Government was endeavoured to be overturned, but the Properties and Liberties of the Subjects destroyed, under the specious, but false pretext of Religion and Conscience; Did by the first <hi>Act</hi> of Our first <hi>Parliament,</hi> Declare, that it should be high Treason to the Subjects of this Kingdom, or any number of them, more or less, upon any ground or pretext whatsoever, to rise or continue in Arms, without Our special Warrant and Authority first interpon'd thereto; and by the second <hi>Act</hi> of the second <hi>Session</hi> of that same <hi>Parlia<g ref="char:EOLhyphen"/>ment,</hi> they likewise Declar'd, that if any Person or Persons, should Levy, Warr, or take up any Arms against Us, or any Commissionated by Us, they should be declared and adjudged Traitors, and should suffer forefeiture of Life, Honour, Lands and Goods, as in cases of High-Treason: Yet We being always most desirous to essay all means of Clemency, for correcting such of Our Subjects as could be any ways reclaimable, Have not hitherto put those Acts into such execution as the disorders and irregularities of some of Our Subjects did require, hoping their going to Field-meetings, those <hi>Rende<g ref="char:EOLhyphen"/>vouzes</hi> of Rebellion with Arms, might have proceeded meerly from Custome, or mistake; But now finding by the fre<g ref="char:EOLhyphen"/>quent opposition made in Arms to Our Forces, acting in Our Name, the invading of Our Officers, and the exciting others to go to such Meetings in Arms, upon design to oppose Our Forces, that such as frequent these Meetings, do go there in Arms upon a criminal and treacherous design, which grows to that same proportion that We use Clemency: And We being desirous that none of Our Subjects should be led in a snare by Our former Lenity, and to the end their condign punishment according to these Laws, may be the more justly chargeable upon the obduredness, and obstinacy of the Offen<g ref="char:EOLhyphen"/>ders; Have therefore, with advice of the Lords of Our Privy Council, after mature deliberation, thought fit to De<g ref="char:EOLhyphen"/>clare, that We will hereafter order the Judges of Our respective Judicatures, and the Officers of all Our Forces, to pro<g ref="char:EOLhyphen"/>ceed against all such who go with any Arms to those Field-meetings, as Traitors. And least that any of Our Subjects may pretend, by the just rigor We will use against such as do go to Conventicles in Arms, that We resolve to slacken Our prosecution of other Field Conventicles; We have therefore thought fit, to require all Our Judges and Officers to put Our Laws and former Commands in vigorous Execution, even against those who frequent these Field-meetings without Arms; We being fully convinced both by reason and experience, that those meetings do certainly tend to the ruine and reproach of the Christian Religion and Discipline, to the introduction of Popery and Heresie, the subversion of Monarchy, and the contempt of all Laws and Government. Our Will is herefore, and We charge you straitly, and Command, that incontinent, these Our Letters seen, ye pass to the Mercat Cross of <hi>Edinburgh,</hi> and other Head-Burghs of the several Shires of this Kingdom, and thereat, in Our Name and Authority, by open Proclamation, make publication of the Premisses, that none pretend ignorance.</p>
+            <closer>
+               <dateline>Given under Our Signet, at <hi>Edinburgh,</hi>
+                  <date>the thretteenth day of <hi>May,</hi> 1679. and of Our Reign the one and threttieth Year.</date>
+               </dateline>
+               <signed>Per actum Dominorum Secreti Concilij, <hi>Al. Gibson,</hi> Cl. Sti. Concilii</signed>
+               <lb/> God save the King.</closer>
+         </div>
+      </body>
+   </text>
+</TEI>
